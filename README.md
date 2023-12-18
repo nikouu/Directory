@@ -10,12 +10,14 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [BrothermanBill](https://github.com/nikouu/BrothermanBill)
 
 ## Performance
+- [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
 - [HttpClientBenchmarking](https://github.com/nikouu/HttpClientBenchmarking)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet)
 - [One-Class-Load-Tester](https://github.com/nikouu/One-Class-Load-Tester)
 
 ## Notes
+- [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
 - [Switch-Expression-Examples](https://github.com/nikouu/Switch-Expression-Examples)
 - [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet)
 - [Neat-CSharp-Snippets](https://github.com/nikouu/Neat-CSharp-Snippets)
