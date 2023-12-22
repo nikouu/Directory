@@ -47,6 +47,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
 
 ## Other
+- [Fun Weird Nasty CSharp](https://github.com/nikouu/Fun-Weird-Nasty-CSharp)
 - [Four-day-work-week-NZ](https://github.com/nikouu/Four-day-work-week-NZ)
 - [How-many-stars-are-given-to-a-user](https://github.com/nikouu/How-many-stars-are-given-to-a-user)
 - [Bookmarklets](https://github.com/nikouu/Bookmarklets)
