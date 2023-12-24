@@ -2,6 +2,7 @@
 Per-topic directory for my repos. Repos may feature in more than one topic.
 
 ## Projects
+- [CPU Plays Pokemon](https://github.com/nikouu/CPU-Plays-Pokemon)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [mGBA-http](https://github.com/nikouu/mGBA-http)
 - [GameboyColour-Decolouriser](https://github.com/nikouu/GameboyColour-Decolouriser)
@@ -36,6 +37,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [mGBA-lua-Socket](https://github.com/nikouu/mGBA-lua-Socket)
 
 ## Pokémon
+- [CPU Plays Pokemon](https://github.com/nikouu/CPU-Plays-Pokemon)
 - [procedural-pokemon-buildings](https://github.com/nikouu/procedural-pokemon-buildings)
 - [Pokemon-gen-2-style-tilemap](https://github.com/nikouu/Pokemon-gen-2-style-tilemap)
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
