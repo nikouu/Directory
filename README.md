@@ -11,6 +11,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [BrothermanBill](https://github.com/nikouu/BrothermanBill)
 
 ## Performance
+- [Filtering-list-with-another-list-Dotnet-Benchmarking](https://github.com/nikouu/Filtering-list-with-another-list-Dotnet-Benchmarking)
 - [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
 - [HttpClientBenchmarking](https://github.com/nikouu/HttpClientBenchmarking)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
