@@ -11,12 +11,15 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [BrothermanBill](https://github.com/nikouu/BrothermanBill)
 
 ## Performance
-- [Filtering-list-with-another-list-Dotnet-Benchmarking](https://github.com/nikouu/Filtering-list-with-another-list-Dotnet-Benchmarking)
 - [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
-- [HttpClientBenchmarking](https://github.com/nikouu/HttpClientBenchmarking)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet)
 - [One-Class-Load-Tester](https://github.com/nikouu/One-Class-Load-Tester)
+
+## Benchmarking
+- [String to GUID Dotnet Benchmarking](https://github.com/nikouu/String-to-GUID-Dotnet-Benchmarking)
+- [Filtering-list-with-another-list-Dotnet-Benchmarking](https://github.com/nikouu/Filtering-list-with-another-list-Dotnet-Benchmarking)
+- [HttpClientBenchmarking](https://github.com/nikouu/HttpClientBenchmarking)
 
 ## Notes
 - [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
