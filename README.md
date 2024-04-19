@@ -20,6 +20,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [String to GUID Dotnet Benchmarking](https://github.com/nikouu/String-to-GUID-Dotnet-Benchmarking)
 - [Filtering-list-with-another-list-Dotnet-Benchmarking](https://github.com/nikouu/Filtering-list-with-another-list-Dotnet-Benchmarking)
 - [HttpClientBenchmarking](https://github.com/nikouu/HttpClientBenchmarking)
+- [Benchmarks](https://github.com/nikouu/Benchmarks) - Small misc benchmarks
 
 ## Notes
 - [Optimization-Tools-And-Notes](https://github.com/nikouu/Optimization-Tools-And-Notes)
