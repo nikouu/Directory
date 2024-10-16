@@ -2,6 +2,7 @@
 Per-topic directory for my repos. Repos may feature in more than one topic.
 
 ## Projects
+- [ZeroRedact](https://github.com/nikouu/ZeroRedact)
 - [CPU Plays Pokemon](https://github.com/nikouu/CPU-Plays-Pokemon)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [mGBA-http](https://github.com/nikouu/mGBA-http)
@@ -33,6 +34,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [pro-net6-microservices](https://github.com/nikouu/pro-net6-microservices)
 
 ## Learning
+- [CA2254-Logging-Experiments](https://github.com/nikouu/CA2254-Logging-Experiments)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [ASP.NET Core Large File Upload Examples](https://github.com/nikouu/ASP.NET-Core-Large-File-Upload-Examples)
 - [dotnet6-csharp10-minimal-api](https://github.com/nikouu/dotnet6-csharp10-minimal-api)
@@ -54,6 +56,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
 
 ## Other
+- [Compliance.Redaction-with-ZeroRedact](https://github.com/nikouu/Compliance.Redaction-with-ZeroRedact)
 - [Fun Weird Nasty CSharp](https://github.com/nikouu/Fun-Weird-Nasty-CSharp)
 - [Four-day-work-week-NZ](https://github.com/nikouu/Four-day-work-week-NZ)
 - [How-many-stars-are-given-to-a-user](https://github.com/nikouu/How-many-stars-are-given-to-a-user)
