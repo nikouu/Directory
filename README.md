@@ -42,6 +42,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [Azure-Functions-NativeAOT-Test](https://github.com/nikouu/Azure-Functions-NativeAOT-Test)
 - [mGBA-lua-HelloWorld](https://github.com/nikouu/mGBA-lua-HelloWorld)
 - [mGBA-lua-Socket](https://github.com/nikouu/mGBA-lua-Socket)
+- [Roslyn Analyzers Learning](https://github.com/nikouu/roslyn-analyzers-learning)
 
 ## Pokémon
 - [CPU Plays Pokemon](https://github.com/nikouu/CPU-Plays-Pokemon)
