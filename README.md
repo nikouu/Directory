@@ -2,6 +2,7 @@
 Per-topic directory for my repos. Repos may feature in more than one topic.
 
 ## Projects
+- [GameboyColorReducer](https://github.com/nikouu/GameboyColorReducer)
 - [ZeroRedact](https://github.com/nikouu/ZeroRedact)
 - [CPU Plays Pokemon](https://github.com/nikouu/CPU-Plays-Pokemon)
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
@@ -51,6 +52,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
 
 ## Pixels
+- [GameboyColorReducer](https://github.com/nikouu/GameboyColorReducer)
 - [GameboyColour-Decolouriser](https://github.com/nikouu/GameboyColour-Decolouriser)
 - [procedural-pokemon-buildings](https://github.com/nikouu/procedural-pokemon-buildings)
 - [Pokemon-gen-2-style-tilemap](https://github.com/nikouu/Pokemon-gen-2-style-tilemap)
