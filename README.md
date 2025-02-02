@@ -50,6 +50,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [procedural-pokemon-buildings](https://github.com/nikouu/procedural-pokemon-buildings)
 - [Pokemon-gen-2-style-tilemap](https://github.com/nikouu/Pokemon-gen-2-style-tilemap)
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
+- [Extract Pokémon Crystal Palette](https://github.com/nikouu/Extract-Pokemon-Crystal-palette)
 
 ## Pixels
 - [GameboyColorReducer](https://github.com/nikouu/GameboyColorReducer)
