@@ -17,6 +17,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [TinyWordle](https://github.com/nikouu/TinyWordle)
 - [dotnet-optimization-cheatsheet](https://github.com/nikouu/dotnet-optimization-cheatsheet)
 - [One-Class-Load-Tester](https://github.com/nikouu/One-Class-Load-Tester)
+- [mGBA-lua-socket-loadtest](https://github.com/nikouu/mGBA-lua-socket-loadtest)
 
 ## Benchmarking
 - [String to GUID Dotnet Benchmarking](https://github.com/nikouu/String-to-GUID-Dotnet-Benchmarking)
