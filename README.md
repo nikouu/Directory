@@ -52,6 +52,7 @@ Per-topic directory for my repos. Repos may feature in more than one topic.
 - [Pokemon-gen-2-style-tilemap](https://github.com/nikouu/Pokemon-gen-2-style-tilemap)
 - [pokesprite-spritesheet](https://github.com/nikouu/pokesprite-spritesheet)
 - [Extract Pokémon Crystal Palette](https://github.com/nikouu/Extract-Pokemon-Crystal-palette)
+- [pokemon-johto-interactable-music-map](https://github.com/nikouu/pokemon-johto-interactable-music-map)
 
 ## Pixels
 - [GameboyColorReducer](https://github.com/nikouu/GameboyColorReducer)
